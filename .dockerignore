@@ -1,0 +1,6 @@
+dockerfiles/
+.dockerignore
+docker-compose.yml
+.git/
+.gitignore
+mysql/
